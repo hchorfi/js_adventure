@@ -1,0 +1,16 @@
+body {
+    background-color: #fff;
+}
+
+.container {
+    width: 1027px;
+    margin: auto;
+}
+
+.logo {
+    float: left;
+}
+
+.photo {
+    float: right;
+}
